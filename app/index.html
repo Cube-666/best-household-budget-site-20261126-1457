@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HomeLedger — Household Budget Planner</title>
+<meta name="description" content="HomeLedger is a household budget planner that runs entirely in your browser: track income and spending, set category budgets, save toward goals, and see where every dollar goes.">
+<link rel="stylesheet" href="style.css">
+<script type="module" src="main.js"></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="#/"><span class="brand-mark" aria-hidden="true">H</span> HomeLedger</a>
+    <nav aria-label="Sections">
+      <a href="#/" data-route="dashboard">Dashboard</a>
+      <a href="#/transactions" data-route="transactions">Transactions</a>
+      <a href="#/budget" data-route="budget">Budget</a>
+      <a href="#/goals" data-route="goals">Goals</a>
+      <a href="#/plan" data-route="plan">Plan</a>
+    </nav>
+  </div>
+</header>
+<main id="app" class="wrap"></main>
+<footer class="site-footer">
+  <div class="wrap">
+    <p><strong>HomeLedger</strong> — a household budget planner. Your data never leaves this browser: it is saved in localStorage, and the site works with the network off.</p>
+    <p>Demo data shows the Hartley household, November 2026. Add, edit and delete anything — or load a starter plan on the Plan page.</p>
+  </div>
+</footer>
+</body>
+</html>
