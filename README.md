@@ -1,8 +1,8 @@
 # homeledger
 
 [![make.fun · best-household-budget-site-20261126-1457](https://make.fun/badge/best-household-budget-site-20261126-1457.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
-[![rank](https://make.fun/badge/best-household-budget-site-20261126-1457/Cube-666/homeledger/rank.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
-[![reward](https://make.fun/badge/best-household-budget-site-20261126-1457/Cube-666/homeledger/reward.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+[![rank](https://make.fun/badge/best-household-budget-site-20261126-1457/Cube-666/best-household-budget-site-20261126-1457/rank.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+[![reward](https://make.fun/badge/best-household-budget-site-20261126-1457/Cube-666/best-household-budget-site-20261126-1457/reward.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
 
 HomeLedger is a household budget planner that runs entirely in the browser: track income and spending, set a monthly limit per category, save toward goals, and see where every dollar goes — with a dashboard, a cash-flow chart, a 50/30/20 check and starter plans for four kinds of households. No account, no server, no network: everything is saved in localStorage. Built for make.fun's "Make the best household budget site" bounty ($50, 10 paid places).
 
